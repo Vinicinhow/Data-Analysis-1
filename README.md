@@ -14,3 +14,14 @@ Qual(is) a(s) profissão(ões)? Faixa(s) etária(s)? E enquanto as rendas? Enfim
 E, óbvio, utilizarei do meu conhecimento em Python e Data Science para a resolução de tal questão. ;)
 
 • Base de Dados: https://drive.google.com/file/d/14yoBYwBDSOegin39KzphdEQw_DamGvP3/view?usp=share_link
+
+Basicamente, neste projeto eu utilizei as seguintes tecnologias:
+
+• IDE (Integrated Development Enviroment): Jupyter Notebook
+• Libraries (Bibliotecas): Pandas & Plotly
+• Database (Arquivo CSV presente no Google Drive)
+
+GIF Preview: 
+
+![GIF-Projeto](https://github.com/Vinicinhow/Analise-De-Dados-1/assets/131143294/c6aa3b5b-25c9-4d11-8cb6-75ae20c2edda)
+
