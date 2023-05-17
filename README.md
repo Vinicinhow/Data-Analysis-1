@@ -1,27 +1,25 @@
-# Analise-De-Dados-1
-Projeto 1 - Análise De Dados - Traçando O Perfil Ideal De Cliente
+# Data-Analysis-1
+## Project 1 - Data Analysis - Tracing the Ideal Customer Profile
 
-Cenário:
+### Scenario:
 
-Trabalho em uma empresa do varejo a qual possui milhares de clientes diferentes...
+I work in a retail company which has thousands of different customers...
 
-Com o objetivo de aumentar o faturamento e, consequentemente, o lucro da sua empresa, a diretoria quer identificar qual é o tipo cliente ideal para seus produtos e/ou serviços, baseado no histórico de compras dos clientes.
+With the aim of increasing revenue and, consequently, the company's profit, the board wants to identify the ideal type of customer for its products and/or services, based on the customer's purchase history.
 
-Para isso, ela fez um trabalho de classificá-los com uma nota de 1 a 100. Só que agora, estou encarregado de descobrir, a partir de tais notas, qual seria esse tal perfil.
+For that, she made a job of classifying them with a grade from 1 to 100. But now, I'm in charge of discovering, based on those grades, what that profile would be.
 
-Qual(is) a(s) profissão(ões)? Faixa(s) etária(s)? E enquanto as rendas? Enfim, todas as informações que eu puder analisar para traçar quais são as características dos melhores clientes da empresa.
+What is your profession(s)? Age groups)? And while the lace? Anyway, all the information I can analyze to outline what are the characteristics of the company's best customers.
 
-E, óbvio, utilizarei do meu conhecimento em Python e Data Science para a resolução de tal questão. ;)
+And, of course, I will use my knowledge in Python and Data Science to resolve this issue. ;)
 
-• Base de Dados: https://drive.google.com/file/d/14yoBYwBDSOegin39KzphdEQw_DamGvP3/view?usp=share_link
+• Database: https://drive.google.com/file/d/14yoBYwBDSOegin39KzphdEQw_DamGvP3/view?usp=share_link
 
-Basicamente, neste projeto eu utilizei as seguintes tecnologias:
+Basically, in this simple work I use the following technologies:
 
-• IDE (Integrated Development Enviroment): Jupyter Notebook
-• Libraries (Bibliotecas): Pandas & Plotly
-• Database (Arquivo CSV presente no Google Drive)
+• IDE (Integrated Development Environment): Jupyter Notebook
+• Libraries: Pandas & Plotly
+• Database (CSV file present in Google Drive)
 
-GIF Preview: 
-
-![GIF-Projeto](https://github.com/Vinicinhow/Analise-De-Dados-1/assets/131143294/c6aa3b5b-25c9-4d11-8cb6-75ae20c2edda)
+Preview in GIF below:
 
