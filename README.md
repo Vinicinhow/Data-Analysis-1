@@ -5,7 +5,7 @@
 
 I work in a retail company which has thousands of different customers...
 
-With the aim of increasing revenue and, consequently, the company's profit, the board wants to identify the ideal type of customer for its products and/or services, based on the customer's purchase history.
+With the aim of increasing revenue and, consequently, the company's profit, it wants to identify the ideal type of customer for its products and/or services, based on the customer's purchase history.
 
 For that, it made a job of classifying them with a grade from 1 to 100. But now, I'm in charge of discovering, based on those grades, what that profile would be.
 
@@ -17,9 +17,8 @@ And, of course, I will use my knowledge in Python and Data Science to resolve th
 
 Basically, in this simple work I use the following technologies:
 
-• IDE (Integrated Development Environment): Jupyter Notebook
+• IDE (Integrated Development Environment): Jupyter
 • Libraries: Pandas & Plotly
-• Database (CSV file present in Google Drive)
+• Database (Excel file (.xslx) present in Google Drive - Link more above)
 
-Preview in GIF below:
 
